@@ -18,10 +18,10 @@ This project replicates the layout, design, and responsiveness of the YouTube UI
 
 ## 📂 Folder Structure
 
-.
-├── index.html
-├── style.css
-└── assets/
+
+|-index.html                                                                                                
+|-style.css                                                                                                 
+|- assets/
 
 ---
 
